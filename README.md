@@ -214,7 +214,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
 - [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclear.js.org/) - An Electron-based, multiplatform music player app that streams from multiple sources.
 - [Ocenaudio](https://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
-- [![Open-Source Software][oss icon]](https://github.com/gkarsay/parlatype) [Parlatype](https://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.
+- [![Open-Source Software][oss icon]](https://github.com/gkarsay/parlatype) [Parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription.
 - [![Open-Source Software][oss icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
